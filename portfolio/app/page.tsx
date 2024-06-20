@@ -1,10 +1,11 @@
-
+import Main from '@/components/layout/Main'
 export default function Home() {
   return (
-    <main >
       <div>
-        main page ...
+        <Main/>
+        {/* main page...
+        <br />
+        mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */}
       </div>
-    </main>
   );
 }
